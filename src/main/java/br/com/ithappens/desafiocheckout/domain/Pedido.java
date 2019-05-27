@@ -35,4 +35,8 @@ public class Pedido {
 
     private StatusCompra statusCompra;
 
+    public void addProduto(Produto produto){
+        this.produtos.add(produto);
+    }
+
 }
