@@ -81,7 +81,7 @@ public class ClienteControllerAutoDocsTest {
                                 AutoDocumentation.description(),
                                 AutoDocumentation.methodAndPath(),
                                 AutoDocumentation.section()))
-                .alwaysDo(document("{class-name}/{method-name}",
+                .alwaysDo(document("clientes",
                         preprocessRequest(prettyPrint()), preprocessResponse(prettyPrint())))
                 .build();
     }

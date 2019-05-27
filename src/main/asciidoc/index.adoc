@@ -1,8 +1,0 @@
-= Checkout Desafio
-This is an example output for a service running at http://localhost:9292:
-
-.request
-include::{snippets}/produto-controller-autodocs-test/test-find-all/http-request.adoc[]
-
-.response
-include::{snippets}/produto-controller-autodocs-test/test-find-all/http-response.adoc[]

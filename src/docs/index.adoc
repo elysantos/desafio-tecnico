@@ -1,0 +1,4 @@
+= Checkout Desafio
+This is an example output for a service running at http://localhost:9292:
+
+include::{snippets}/clientes/auto-section.adoc[]
